@@ -70,11 +70,11 @@ My current research interests include Deep Learning and Agentic Systems in Medic
 </ol>
 
 # 🎖 Honors and Awards
-- *2025, 2024* **National Scholarship**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
+- *2025, 2024* Twice **National Scholarship**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - *2025, 2024, 2023* **Tsinghua University Comprehensive Excellence Scholarship (Top 10%)**
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) *2025* **MICCAI 2025 autoPET IV Challenge 1st Place Winner (Task I)**
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/07/126d96158b08e1d8.jpg) *2025* **First Prize at the 10th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%)**
-- *2024* **First Prize at the 7th National College Student Art Exhibition (Instrumental Music Category)**
+- *2025* **MICCAI autoPET IV Challenge 1st Place Winner (Task I)**
+- *2025* **First Prize** at the 10th National Biomedical Engineering Innovation Design Competition for College Students **(Top 5%)**
+- *2024* **First Prize** at the 7th National College Student Art Exhibition (Instrumental Music Category)
 - *2024* **Outstanding Scholarship**, Fujian Province Youth Talent Development Program
 - *2024* **College Contribution Scholarship**, Weixian College, Tsinghua University
 
@@ -87,14 +87,14 @@ Beyond courses and research, I am also passionate about arts, literature and spo
 - Classical Music: I have a keen interest in Classical Music, both as a listener and a player. I have been playing Piano and Saxophone since 6. At 12 I joined our junior high school orchestra, and started playing Bassoon ever since. Entering University, I joined the Tsinghua University Symphonic Orchestra, where I participated in multiple campus concerts and won the First Prize at the 7th National College Student Art Exhibition.
   
 <p align="center">
-  <img src="../images/orchestra.jpg" alt="Orchestra" width="48%">
+  <img src="../images/orchestra.png" alt="Orchestra" width="48%">
 </p>
 
 - Sports: I have a diverse passion about various sports, including but not limited to: Soccer, Tennis, Badminton and Snooker. I am part of the College Soccer & Badminton team, as well as a member of the University Soccer Referee Association.
 
 <div style="display:flex; gap:12px; justify-content:center; align-items:center; flex-wrap:wrap;">
-  <img src="../images/soccer.jpg" alt="soccer" style="width:48%; height:auto;" loading="lazy">
-  <img src="../images/badminton.jpg" alt="badminton" style="width:48%; height:auto;" loading="lazy">
+  <img src="../images/soccer.png" alt="soccer" style="width:48%; height:auto;" loading="lazy">
+  <img src="../images/badminton.png" alt="badminton" style="width:48%; height:auto;" loading="lazy">
 </div>
 
 
