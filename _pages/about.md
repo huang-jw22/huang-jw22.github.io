@@ -19,14 +19,14 @@ redirect_from:
 # 👋 About Me
 I'm a senior undergraduate student at [Weixian College](https://www.wxc.tsinghua.edu.cn/) and [School of Biomedical Engineering, Tsinghua University](https://www.med.tsinghua.edu.cn/en/).
 
-I am currently working as a research assistant at [Birth Lab](https://birthlab.github.io/), Tsinghua University and am fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm). We are aspired to explore the frontiers of AI in Medicine.
+I am currently working as a research assistant at [Birth Lab](https://birthlab.github.io/), Tsinghua University and I'm fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm). We are striving to explore the frontiers of AI in Medicine.
 
-I also had great memories working at [The Multi-Scale Robotics Lab, ETH Zurich](https://msrl.ethz.ch/), advised by [Prof. Bradley Nelson](https://msrl.ethz.ch/the-lab/team/Brad_Nelson.html). This summer I joined [Subtle Medical Inc.](https://subtlemedical.com/) as a research intern, developing human-in-the-loop deep learning algorithms for medical imaging.
+I also have great memories working at [The Multi-Scale Robotics Lab, ETH Zurich](https://msrl.ethz.ch/), advised by [Prof. Bradley Nelson](https://msrl.ethz.ch/the-lab/team/Brad_Nelson.html). This summer I joined [Subtle Medical Inc.](https://subtlemedical.com/) as a research intern, developing human-in-the-loop deep learning algorithms for medical imaging.
 
 My current research interests include Agentic Systems and Interactive AI for Medicine. I am always passionate about interdisciplinary collaboration, so please feel free to reach out!
 
 # 🔥 News
-**2025.10.17:** 🎖 Rewarded the **National Scholarship** (*Top scholarship in China. 0.2% domestically*) for the second consecutive year!
+**2025.10.17:** 🎖 Awarded the **National Scholarship** (*Top 0.2%*) for the second consecutive year!
 
 **2025.09.27:** 🏆 Our team won the **1st Place** in the [MICCAI 2025 autoPET IV Challenge](https://autopet-iv.grand-challenge.org/autopet-iv/) (Task I)!🎉🎉 Thrilled to receive this award and present our method on the workshop!
 
@@ -61,7 +61,7 @@ My current research interests include Agentic Systems and Interactive AI for Med
 </ol>
 
 # 🎖 Honors and Awards
-- *2025, 2024* Twice **National Scholarship**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
+- *2025, 2024* **National Scholarship** (Twice) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% nationwide*.
 - *2025, 2024, 2023* **Tsinghua University Comprehensive Excellence Scholarship (Top 10%)**
 - *2025* **MICCAI autoPET IV Challenge 1st Place Winner (Task I)**
 - *2025* **First Prize** at the 10th National Biomedical Engineering Innovation Design Competition for College Students **(Top 5%)**
