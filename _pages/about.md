@@ -28,7 +28,7 @@ My current research interests include Agentic Systems and Interactive AI for Med
 # 🔥 News
 **2025.10.17:** 🎖 Awarded the **National Scholarship** (*Top 0.2%*) for the second consecutive year!
 
-**2025.09.27:** 🏆 Our team won the **1st Place** in the [MICCAI 2025 autoPET IV Challenge](https://autopet-iv.grand-challenge.org/autopet-iv/) (Task I)!🎉🎉 Thrilled to receive this award and present our method on the workshop!
+**2025.09.27:** 🏆 Our team won the **1st Place** in the [MICCAI 2025 autoPET IV Challenge](https://autopet-iv.grand-challenge.org/autopet-iv/) (Task I)! 🎉🎉 Thrilled to receive this award and present our method on the workshop!
 
 <p align="center">
   <img src="../images/autopet_award.jpg" alt="autoPET Award" width="48%">
@@ -76,20 +76,20 @@ My current research interests include Agentic Systems and Interactive AI for Med
 # 🎬 Hobbies
 When I’m not immersed in coursework and research, I love diving into arts, literature, and sports. 
 
-- Classical Music: I have a keen interest in Classical Music, both as a listener and a player. I have been playing Piano and Saxophone since 6. At 12 I joined our junior high school orchestra, and started playing Bassoon ever since. Entering University, I joined the **Tsinghua University Symphonic Orchestra**, where I’ve had the pleasure of performing in several concerts and competitions.
+- Classical Music: I have a keen interest in classical music, both as a listener and a player. I have been playing the piano and saxophone since 6. At 12 I joined our junior high school orchestra, and have been playing Bassoon ever since. Entering University, I joined the **Tsinghua University Symphonic Orchestra**, where I’ve had the pleasure of performing in several concerts and competitions.
   
 <p align="center">
   <img src="../images/orchestra.PNG" alt="Orchestra" width="40%">
 </p>
 
-- Films & Literature: In one of my favorite film *[Yi Yi](https://letterboxd.com/film/yi-yi/)*, there is a line: *"We live three times as long since man invented movies."* That's exactly why I love them: Through the screens and book pages, we get to experience lives that we would never be able to experience in reality. 
-
-- Sports: I have a diverse passion about sports, including but not limited to soccer, tennis, badminton and snooker. I am part of the College Soccer & Badminton team, as well as a member of the University Soccer Referee Association.
+- Sports: I have a diverse passion for sports, including but not limited to soccer, tennis, badminton and snooker. I am part of the College Soccer & Badminton team, as well as a member of the University Soccer Referee Association.
 
 <div style="display:flex; gap:12px; justify-content:center; align-items:center; flex-wrap:wrap;">
   <img src="../images/soccer.png" alt="soccer" style="width:40%; height:auto;" loading="lazy">
   <img src="../images/badminton.png" alt="badminton" style="width:40%; height:auto;" loading="lazy">
 </div>
+
+- Films & Literature: In one of my favorite film *[Yi Yi](https://letterboxd.com/film/yi-yi/)*, there is a line: *"We live three times as long since man invented movies."* That's exactly why I love them: Through the screens and book pages, we get to experience lives that we would never be able to experience in reality. 
 
 # 🔗 LINKS
 BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>Haoxiang Li: [School of Biomedical Engineering, Tsinghua University](https://lihaoxiang-20.github.io/)<br>Yifei Chen: [School of Biomedical Engineering, Tsinghua University](https://justlfc03.github.io/) <br>Yingqi Hao: [School of Biomedical Engineering, Tsinghua University](https://yingqihao2022.github.io/)<br>Jialan Zheng: [School of Biomedical Engineering, Tsinghua University](https://zjl21.github.io/)<br>Xuguang Bai: [School of Biomedical Engineering, Tsinghua University](https://jasonw375.github.io/) <br>Yijin Li: [School of Biological Science and Medical Engineering, Beihang University](https://liyijin6815.github.io/)
