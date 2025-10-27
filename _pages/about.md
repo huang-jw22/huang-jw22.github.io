@@ -67,7 +67,7 @@ My current research interests include Agentic Systems and Interactive AI for Med
 - *2025, 2024, 2023* **Tsinghua University Comprehensive Excellence Scholarship (Top 10%)**
 - *2025* **MICCAI autoPET IV Challenge 1st Place Winner (Task I)**
 - *2025* **First Prize** at the 10th National Biomedical Engineering Innovation Design Competition for College Students **(Top 5%)**
-- 2025* **Outstanding Poster Award** at the Tsinghua University Initiative Scientific Research Program Symposium
+- *2025* **Outstanding Poster Award** at the Tsinghua University Initiative Scientific Research Program Symposium
 - *2024* **First Prize** at the 7th National College Student Art Exhibition (Instrumental Music Category)
 - *2024* **Outstanding Scholarship**, Fujian Province Youth Talent Development Program
 - *2024* **College Contribution Scholarship**, Weixian College, Tsinghua University
