@@ -26,6 +26,8 @@ I also have great memories working at [The Multi-Scale Robotics Lab, ETH Zurich]
 My current research interests include Agentic Systems and Interactive AI for Medicine. I am always passionate about interdisciplinary collaboration, so please feel free to reach out!
 
 # 🔥 News
+**2025.10.27:** 🎉 Received the **Outstanding Poster Award** at the Tsinghua University Initiative Scientific Research Program Symposium.
+
 **2025.10.17:** 🎖 Awarded the **National Scholarship** (*Top 0.2%*) for the second consecutive year!
 
 **2025.09.27:** 🏆 Our team won the **1st Place** in the [MICCAI 2025 autoPET IV Challenge](https://autopet-iv.grand-challenge.org/autopet-iv/) (Task I)! 🎉🎉 Thrilled to receive this award and present our method on the workshop!
@@ -65,6 +67,7 @@ My current research interests include Agentic Systems and Interactive AI for Med
 - *2025, 2024, 2023* **Tsinghua University Comprehensive Excellence Scholarship (Top 10%)**
 - *2025* **MICCAI autoPET IV Challenge 1st Place Winner (Task I)**
 - *2025* **First Prize** at the 10th National Biomedical Engineering Innovation Design Competition for College Students **(Top 5%)**
+- 2025* **Outstanding Poster Award** at the Tsinghua University Initiative Scientific Research Program Symposium
 - *2024* **First Prize** at the 7th National College Student Art Exhibition (Instrumental Music Category)
 - *2024* **Outstanding Scholarship**, Fujian Province Youth Talent Development Program
 - *2024* **College Contribution Scholarship**, Weixian College, Tsinghua University
