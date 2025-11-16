@@ -82,7 +82,7 @@ When I’m not immersed in coursework and research, I love diving into arts, lit
 - Classical Music: I have a keen interest in classical music, both as a listener and a player. I have been playing the piano and saxophone since 6. At 12 I joined our junior high school orchestra, and have been playing Bassoon ever since. Entering University, I joined the **Tsinghua University Symphonic Orchestra**, where I’ve had the pleasure of performing in several concerts and competitions.
   
 <p align="center">
-  <img src="../images/orchestra.PNG" alt="Orchestra" width="40%">
+  <img src="../images/orchestra.PNG" alt="Orchestra" width="50%">
 </p>
 
 - Sports: I have a diverse passion for sports, including but not limited to soccer, tennis, badminton, and snooker. I am part of the College Soccer & Badminton team, as well as a member of the University Soccer Referee Association. Beyond competitive sports, I also enjoy hiking — being in the mountains always makes me feel closer to the world and to my soul.
@@ -95,7 +95,7 @@ When I’m not immersed in coursework and research, I love diving into arts, lit
 - Films & Literature: In one of my favorite film *[Yi Yi](https://letterboxd.com/film/yi-yi/)*, there is a line: *"We live three times as long since man invented movies."* That's exactly why I love them: Through the screens and book pages, we get to experience lives that we would never be able to experience in reality. 
 
 <p align="center">
-  <img src="../images/Film.jpg" alt="Film" width="40%">
+  <img src="../images/Film.jpg" alt="Film" width="50%">
 </p>
 
 
