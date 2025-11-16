@@ -85,14 +85,23 @@ When I’m not immersed in coursework and research, I love diving into arts, lit
   <img src="../images/orchestra.PNG" alt="Orchestra" width="40%">
 </p>
 
-- Sports: I have a diverse passion for sports, including but not limited to soccer, tennis, badminton and snooker. I am part of the College Soccer & Badminton team, as well as a member of the University Soccer Referee Association.
+- Sports: I have a diverse passion for sports, including but not limited to soccer, tennis, badminton, and snooker. I am part of the College Soccer & Badminton team, as well as a member of the University Soccer Referee Association. Beyond competitive sports, I also love hiking — being in the mountains brings me closer to both the world and my soul.
 
 <div style="display:flex; gap:12px; justify-content:center; align-items:center; flex-wrap:wrap;">
   <img src="../images/soccer.png" alt="soccer" style="width:40%; height:auto;" loading="lazy">
-  <img src="../images/badminton.png" alt="badminton" style="width:40%; height:auto;" loading="lazy">
+  <img src="../images/Hiking.png" alt="badminton" style="width:40%; height:auto;" loading="lazy">
 </div>
+  
+<p align="center">
+  <img src="../images/orchestra.PNG" alt="Orchestra" width="40%">
+</p>
 
 - Films & Literature: In one of my favorite film *[Yi Yi](https://letterboxd.com/film/yi-yi/)*, there is a line: *"We live three times as long since man invented movies."* That's exactly why I love them: Through the screens and book pages, we get to experience lives that we would never be able to experience in reality. 
+
+<p align="center">
+  <img src="../images/Film.jpg" alt="Film" width="60%">
+</p>
+
 
 # 🔗 LINKS
 BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>Haoxiang Li: [School of Biomedical Engineering, Tsinghua University](https://lihaoxiang-20.github.io/)<br>Yifei Chen: [School of Biomedical Engineering, Tsinghua University](https://justlfc03.github.io/) <br>Yingqi Hao: [School of Biomedical Engineering, Tsinghua University](https://yingqihao2022.github.io/)<br>Jialan Zheng: [School of Biomedical Engineering, Tsinghua University](https://zjl21.github.io/)<br>Xuguang Bai: [School of Biomedical Engineering, Tsinghua University](https://jasonw375.github.io/) <br>Yijin Li: [School of Biological Science and Medical Engineering, Beihang University](https://liyijin6815.github.io/)
