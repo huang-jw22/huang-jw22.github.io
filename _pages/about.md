@@ -89,12 +89,8 @@ When I’m not immersed in coursework and research, I love diving into arts, lit
 
 <div style="display:flex; gap:12px; justify-content:center; align-items:center; flex-wrap:wrap;">
   <img src="../images/soccer.png" alt="soccer" style="width:40%; height:auto;" loading="lazy">
-  <img src="../images/Hiking.png" alt="badminton" style="width:40%; height:auto;" loading="lazy">
+  <img src="../images/Hiking.jpg" alt="badminton" style="width:40%; height:auto;" loading="lazy">
 </div>
-  
-<p align="center">
-  <img src="../images/orchestra.PNG" alt="Orchestra" width="40%">
-</p>
 
 - Films & Literature: In one of my favorite film *[Yi Yi](https://letterboxd.com/film/yi-yi/)*, there is a line: *"We live three times as long since man invented movies."* That's exactly why I love them: Through the screens and book pages, we get to experience lives that we would never be able to experience in reality. 
 
