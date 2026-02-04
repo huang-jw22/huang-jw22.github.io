@@ -23,9 +23,11 @@ I am currently working as a research assistant at [Birth Lab](https://birthlab.g
 
 I also have great memories working at [The Multi-Scale Robotics Lab, ETH Zurich](https://msrl.ethz.ch/), advised by [Prof. Bradley Nelson](https://msrl.ethz.ch/the-lab/team/Brad_Nelson.html). This summer I joined [Subtle Medical Inc.](https://subtlemedical.com/) as a research intern, developing human-in-the-loop deep learning algorithms for medical imaging.
 
-My current research interests include Agentic Systems and Interactive AI for Medicine. I am always passionate about interdisciplinary collaboration, so please feel free to reach out!
+My current research interests include Agentic Systems and Trustworthy AI. I am always passionate about interdisciplinary collaboration, so please feel free to reach out!
 
 # 🔥 News
+**2026.02.04:** 🎉 Four abstracts accepted by [ISMRM 2026](https://www.ismrm.org/26m/), with an Educational Stipend awarded!
+
 **2025.10.27:** 🎉 Received the **Outstanding Poster Award** at the Tsinghua University Initiative Scientific Research Program Symposium.
 
 **2025.10.17:** 🎖 Awarded the **National Scholarship** (*Top 0.2%*) for the second consecutive year!
@@ -54,11 +56,17 @@ My current research interests include Agentic Systems and Interactive AI for Med
 <h2 id="CONFERENCE PAPERS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">CONFERENCE PAPERS</h2>
 
 <ol reversed>
+  <li id="MA-Pub1"> 
+    <span style="color:#000000; font-weight:bold;">Multi-Organ Volumetric Growth Trajectories in Fetuses with Hydronephrosis</span> <br> 
+    <span style="color:#b02418; font-weight:bold;">Junwei Huang</span>, Kasidit Anmahapong, Haoxiang Li, Mingxuan Liu, Juncheng Zhu, Hongjia Yang, Yijin Li, Yingqi Hao, Fenglin Jia, Yi Liao, Haibo Qu, Qiyuan Tian*<br> 
+    <i> ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM)</strong></i>, 2026. (Digital Poster)
+  </li>
+
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT</span> <br>
     <a href="https://arxiv.org/pdf/2509.02402">[Paper]</a> <a href="https://github.com/huang-jw22/autoPET-4-submission/tree/master">[Code]</a><br> 
     <span style="color:#b02418; font-weight:bold;">Junwei Huang</span>, Yingqi Hao, Yitong Luo, Ziyu Wang, Mingxuan Liu, Yifei Chen, Yuanhan Wang, Lei Xiang, Qiyuan Tian*<br> 
-    <i> MICCAI autoPET IV challenge <strong>(MICCAI). </strong></i> 2025. (Task I Winner Solution)
+    <i> MICCAI autoPET IV challenge <strong>(MICCAI), </strong></i> 2025. (Task I Winner Solution)
   </li>
 </ol>
 
