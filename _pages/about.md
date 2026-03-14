@@ -53,7 +53,7 @@ My current research interests include Agentic Systems and Trustworthy AI. I am a
 # 📝 Publications 
 <span style="color:#b02418; font-weight:bold;">*</span> equal contribution | <span style="color:#b02418; font-weight:bold;">&dagger;</span> corresponding author <br> 
 
-<h2 id="CONFERENCE PAPERS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">CONFERENCE PAPERS</h2>
+<h2 id="CONFERENCE PAPERS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px; margin-bottom: 8px;">CONFERENCE PAPERS</h2>
 
 <ol reversed>
   <li id="MA-Pub1"> 
@@ -70,14 +70,14 @@ My current research interests include Agentic Systems and Trustworthy AI. I am a
   </li>
 </ol>
 
-<h2 id="PREPRINTS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">PREPRINTS</h2>
+<h2 id="PREPRINTS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px; margin-bottom: 8px;">PREPRINTS</h2>
 
 <ol reversed>
   <li id="MA-Pre1"> 
     <span style="color:#000000; font-weight:bold;">FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis</span> <br> 
     <a href="https://arxiv.org/pdf/2603.09733">[arXiv]</a> <a href="https://github.com/huang-jw22/FetalAgents/tree/main">[Code]</a><br> 
-    Xiaotian Hu<sup>*</sup>, <span style="color:#b02418; font-weight:bold;">Junwei Huang</span><sup>*</sup>, Mingxuan Liu<sup>*</sup>, Kasidit Anmahapong, Yifei Chen, Yitong Luo, Yiming Huang, Xuguang Bai, Zihan Li, Yi Liao, Haibo Qu, Qiyuan Tian<sup>&dagger;</sup><br> 
-    <i>arXiv preprint arXiv:2603.09733</i>, 2026. (Under review)
+    Xiaotian Hu<b><sup>*</sup></b>, <span style="color:#b02418; font-weight:bold;">Junwei Huang<sup>*</sup></span>, Mingxuan Liu<b><sup>*</sup></b>, Kasidit Anmahapong, Yifei Chen, Yitong Luo, Yiming Huang, Xuguang Bai, Zihan Li, Yi Liao, Haibo Qu, Qiyuan Tian<b><sup>&dagger;</sup></b><br> 
+    <i>arXiv preprint</i>, 2026. (Under review)
   </li>
 </ol>
 
