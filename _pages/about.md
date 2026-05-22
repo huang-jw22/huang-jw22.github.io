@@ -26,6 +26,8 @@ I also have great memories working at [The Multi-Scale Robotics Lab, ETH Zurich]
 My current research interests include Agentic Systems and Trustworthy AI. I am always passionate about interdisciplinary collaboration, so please feel free to reach out!
 
 # 🔥 News
+**2026.05.09:** ⛰️ Attended [ISMRM 2026](https://www.ismrm.org/) in Cape Town, South Africa. Wonderful city!
+
 **2026.02.04:** 🎉 Four abstracts accepted by [ISMRM 2026](https://www.ismrm.org/26m/), with an Educational Stipend awarded!
 
 **2025.10.27:** 🎉 Received the **Outstanding Poster Award** at the Tsinghua University Initiative Scientific Research Program Symposium.
@@ -48,7 +50,7 @@ My current research interests include Agentic Systems and Trustworthy AI. I am a
 
 **2024.09.16:** Honored to join the [Multi-Scale Robotics Lab](https://msrl.ethz.ch/) at ETH Zurich to develop biomedical micro-robots.
 
-**2024.09.11:** Arrived at Zurich! Excited to begin my exchange study journey in Switzerland.
+**2024.09.11:** Arrived at Zurich! Excited to begin my exchange study journey in 🇨🇭.
 
 # 📝 Publications 
 <span style="color:#b02418; font-weight:bold;">*</span> equal contribution | <span style="color:#b02418; font-weight:bold;">&dagger;</span> corresponding author <br> 
@@ -56,6 +58,13 @@ My current research interests include Agentic Systems and Trustworthy AI. I am a
 <h2 id="CONFERENCE PAPERS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px; margin-bottom: 8px;">CONFERENCE PAPERS</h2>
 
 <ol reversed>
+  <li id="MA-Pub2"> 
+    <span style="color:#000000; font-weight:bold;">FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis</span> <br> 
+    <a href="https://arxiv.org/pdf/2603.09733">[arXiv]</a> <a href="https://github.com/huang-jw22/FetalAgents/tree/main">[Code]</a><br> 
+    Xiaotian Hu<b><sup>*</sup></b>, <span style="color:#b02418; font-weight:bold;">Junwei Huang<sup>*</sup></span>, Mingxuan Liu<b><sup>*</sup></b>, Kasidit Anmahapong, Yifei Chen, Yitong Luo, Yiming Huang, Xuguang Bai, Zihan Li, Yi Liao, Haibo Qu, Qiyuan Tian<b><sup>&dagger;</sup></b><br> 
+    <i> International Conference on Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI)</strong></i>, 2026. (Early Accept, Top 9%)
+  </li>
+
   <li id="MA-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Multi-Organ Volumetric Growth Trajectories in Fetuses with Hydronephrosis</span> <br> 
     <span style="color:#b02418; font-weight:bold;">Junwei Huang</span>, Kasidit Anmahapong, Haoxiang Li, Mingxuan Liu, Juncheng Zhu, Hongjia Yang, Yijin Li, Yingqi Hao, Fenglin Jia, Yi Liao, Haibo Qu, Qiyuan Tian<sup>&dagger;</sup><br> 
@@ -66,20 +75,10 @@ My current research interests include Agentic Systems and Trustworthy AI. I am a
     <span style="color:#000000; font-weight:bold;">autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT</span> <br>
     <a href="https://arxiv.org/pdf/2509.02402">[Paper]</a> <a href="https://github.com/huang-jw22/autoPET-4-submission/tree/master">[Code]</a><br> 
     <span style="color:#b02418; font-weight:bold;">Junwei Huang</span>, Yingqi Hao, Yitong Luo, Ziyu Wang, Mingxuan Liu, Yifei Chen, Yuanhan Wang, Lei Xiang, Qiyuan Tian<sup>&dagger;</sup><br> 
-    <i> MICCAI autoPET IV challenge <strong>(MICCAI), </strong></i> 2025. (Task I Winner Solution)
+    <i> MICCAI autoPET IV challenge <strong>(MICCAI)</strong></i>, 2025. (Task I Winner Solution)
   </li>
 </ol>
 
-<h2 id="PREPRINTS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px; margin-bottom: 8px;">PREPRINTS</h2>
-
-<ol reversed>
-  <li id="MA-Pre1"> 
-    <span style="color:#000000; font-weight:bold;">FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis</span> <br> 
-    <a href="https://arxiv.org/pdf/2603.09733">[arXiv]</a> <a href="https://github.com/huang-jw22/FetalAgents/tree/main">[Code]</a><br> 
-    Xiaotian Hu<b><sup>*</sup></b>, <span style="color:#b02418; font-weight:bold;">Junwei Huang<sup>*</sup></span>, Mingxuan Liu<b><sup>*</sup></b>, Kasidit Anmahapong, Yifei Chen, Yitong Luo, Yiming Huang, Xuguang Bai, Zihan Li, Yi Liao, Haibo Qu, Qiyuan Tian<b><sup>&dagger;</sup></b><br> 
-    <i>arXiv preprint</i>, 2026. (Under review)
-  </li>
-</ol>
 
 # 🎖 Honors and Awards
 - *2025, 2024* **National Scholarship** (Twice) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% nationwide*.
