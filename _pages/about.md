@@ -17,16 +17,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-I'm a senior undergraduate student at [Weixian College](https://www.wxc.tsinghua.edu.cn/) and [School of Biomedical Engineering, Tsinghua University](https://www.med.tsinghua.edu.cn/en/).
+I'm a senior undergraduate student at [Weixian College](https://www.wxc.tsinghua.edu.cn/) and [School of Biomedical Engineering, Tsinghua University](https://www.med.tsinghua.edu.cn/en/).<br>I will be joining **Stanford University** as an incoming M.S. student in [Electrical Engineering](https://ee.stanford.edu/) in Fall 2026.
 
-I am currently working as a research assistant at [Birth Lab](https://birthlab.github.io/), Tsinghua University and I'm fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm). We are striving to explore the frontiers of AI in Medicine.
+I am currently working as a research assistant at [BIRTH Lab](https://birthlab.github.io/), Tsinghua University and I'm fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm). We are striving to explore the frontiers of Medical AI.
 
-I also have great memories working at [The Multi-Scale Robotics Lab, ETH Zurich](https://msrl.ethz.ch/), advised by [Prof. Bradley Nelson](https://msrl.ethz.ch/the-lab/team/Brad_Nelson.html). This summer I joined [Subtle Medical Inc.](https://subtlemedical.com/) as a research intern, developing human-in-the-loop deep learning algorithms for medical imaging.
+I also have great memories working at [The Multi-Scale Robotics Lab, ETH Zurich](https://msrl.ethz.ch/), advised by [Prof. Bradley Nelson](https://msrl.ethz.ch/the-lab/team/Brad_Nelson.html). Last summer I joined [Subtle Medical Inc.](https://subtlemedical.com/) as a research intern, developing human-in-the-loop deep learning algorithms for medical imaging.
 
-My current research interests include Agentic Systems and Trustworthy AI. I am always passionate about interdisciplinary collaboration, so please feel free to reach out!
+My current research interests include Agentic Systems and Trustworthy Medical AI. I am always passionate about interdisciplinary collaboration, so please feel free to reach out!
 
 # 🔥 News
-**2026.05.09:** ⛰️ Attended [ISMRM 2026](https://www.ismrm.org/) in Cape Town, South Africa. Wonderful city!
+**2026.05.14:** ⛰️ Attended [ISMRM 2026](https://www.ismrm.org/) in Cape Town, South Africa. Incredible city!
+
+**2026.05.08:** 🎉 Our work [FetalAgents](https://github.com/huang-jw22/FetalAgents) was **Early Accepted** (*Top 9%*) by MICCAI 2026 !
 
 **2026.02.04:** 🎉 Four abstracts accepted by [ISMRM 2026](https://www.ismrm.org/26m/), with an Educational Stipend awarded!
 
@@ -91,6 +93,7 @@ My current research interests include Agentic Systems and Trustworthy AI. I am a
 - *2024* **College Contribution Scholarship**, Weixian College, Tsinghua University
 
 # 📖 Education
+- *2026.09 - 2028.06 (Expected)*, Master's student: **Department of Electrical Engineering**, Stanford University, USA.
 - *2024.09 - 2025.02*, Exchange student: **Department of Information Technology and Electrical Engineering**, ETH Zurich, Switzerland. 
 - *2022.09 – present*, Undergraduate student: **Weixian College** and **School of Biomedical Engineering**, Tsinghua University, China.
 
@@ -118,5 +121,4 @@ When I’m not immersed in coursework and research, I love diving into arts, lit
 
 
 # 🔗 LINKS
-BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>Haoxiang Li: [School of Biomedical Engineering, Tsinghua University](https://lihaoxiang-20.github.io/)<br>Yifei Chen: [School of Biomedical Engineering, Tsinghua University](https://justlfc03.github.io/) <br>Yingqi Hao: [School of Biomedical Engineering, Tsinghua University](https://yingqihao2022.github.io/)<br>Jialan Zheng: [School of Biomedical Engineering, Tsinghua University](https://zjl21.github.io/)<br>Xuguang Bai: [School of Biomedical Engineering, Tsinghua University](https://jasonw375.github.io/) <br>Yijin Li: [School of Biological Science and Medical Engineering, Beihang University](https://liyijin6815.github.io/)
-
+BIRTH Lab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>Haoxiang Li: [School of Biomedical Engineering, Tsinghua University](https://lihaoxiang-20.github.io/)<br>Yingqi Hao: [School of Biomedical Engineering, Tsinghua University](https://yingqihao2022.github.io/)
