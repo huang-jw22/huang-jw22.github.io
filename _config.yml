@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junwei Huang"
   avatar           : "images/profile_square.jpg"
-  bio              : "Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "Stanford University"
+  location         : "Stanford, CA"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ"
